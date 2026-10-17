@@ -1,1 +1,12 @@
-# software-engineering-journey
+# 我的软件工程学习之路
+
+我是一名软件工程专业大三学生。
+
+## 学习目标
+- 掌握 Git 和 GitHub
+- 学习 Java 后端开发
+- 独立完成一个软件项目
+- 探索 AI 应用开发
+
+## 学习日志
+Day 1：创建了第一个 GitHub 仓库。
